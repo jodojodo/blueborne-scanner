@@ -1,1 +1,1 @@
-pybluez
+pybluez==0.22
